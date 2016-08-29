@@ -1,2 +1,2 @@
 # Git
-随笔记录Git相关
+The essay about Git
